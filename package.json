@@ -1,0 +1,9 @@
+{
+  "name": "com.ran-utils.extensions",
+  "version": "1.0.0",
+  "displayName": "Ran Utils - Extensions",
+  "description": "A collection of extension utilities for Unity.",
+  "unity": "6000.2",
+  "unityRelease": "6f2",
+  "author": "khalishzhafran"
+}
