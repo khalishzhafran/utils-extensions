@@ -1,7 +1,9 @@
 {
   "name": "com.ran-utils.extensions",
   "rootNamespace": "ran.utilities",
-  "references": [],
+  "references": [
+    "com.ran-utils.yield"
+  ],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
