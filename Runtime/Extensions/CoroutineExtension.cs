@@ -1,10 +1,21 @@
-// Author   : Litsch
+// ------------------------------------------------------------------------------
+//  File: CoroutineExtension.cs
+//  Author: Ran
+//  Description: Extension methods for coroutines to handle multiple coroutine operations.
+//  Created: 2025
+//  
+//  Copyright (c) 2025 Ran.
+//  This script is part of the ran.utilities namespace.
+//  Permission is granted to use, modify, and distribute this file freely
+//  for both personal and commercial projects, provided that this notice
+//  remains intact.
+// ------------------------------------------------------------------------------
 
 using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace Litsch.Utilities
+namespace ran.utilities
 {
     /// <summary>
     /// Provides extension methods for coroutines to handle multiple coroutine operations.

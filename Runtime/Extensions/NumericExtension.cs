@@ -1,10 +1,21 @@
-// Author   : Litsch
+// ------------------------------------------------------------------------------
+//  File: NumericExtension.cs
+//  Author: Ran
+//  Description: Extension methods for numeric types.
+//  Created: 2025
+//  
+//  Copyright (c) 2025 Ran.
+//  This script is part of the ran.utilities namespace.
+//  Permission is granted to use, modify, and distribute this file freely
+//  for both personal and commercial projects, provided that this notice
+//  remains intact.
+// ------------------------------------------------------------------------------
 
 using System;
 using System.Diagnostics.Contracts;
 using UnityEngine;
 
-namespace Litsch.Utilities
+namespace ran.utilities
 {
     /// <summary>
     /// Extension methods for <see cref="float"/>, <see cref="int"/>, <see cref="double"/>, and <see cref="decimal"/> classes.
