@@ -110,6 +110,16 @@ namespace ran.utilities
         }
 
         /// <summary>
+        /// Sanitizes the text in a string by removing leading and trailing whitespace.
+        /// </summary>
+        /// <param name="text">The string to sanitize.</param>
+        /// <returns>The sanitized text with leading and trailing whitespace removed.</returns>
+        public static string Sanitize(this string text)
+        {
+            return text.Trim();
+        }
+
+        /// <summary>
         /// Converts the first character of the input string to uppercase and the rest to lowercase.
         /// </summary>
         /// <param name="text">The input string to convert.</param>
